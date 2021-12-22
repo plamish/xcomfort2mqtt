@@ -1,0 +1,9 @@
+xc2mqtt:
+  class: xcMQTT
+  module: xc2mqtt
+  url: "http://shc_ip_address"
+  username: "put_your_username_here"
+  password: "put_your_password_here"
+  debug: False
+  retain: True
+  polling: 5
